@@ -1,5 +1,6 @@
-
-
+.cardaby {
+ flex-shrink: inherit;
+}
 .portfolio  {
   padding-top: 200px;
   margin-bottom: 30px;
