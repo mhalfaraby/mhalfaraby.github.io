@@ -13,4 +13,4 @@ My name is MUHAMMAD ALFARABY or `Aby` <br>
 
 ⚡ Fun fact I'm also Commercial Pilot (US FAA certified & Indonesia DGCA certified)
 
-email : `mhalfaraby@gmail.com`
+mhalfaraby@gmail.com
