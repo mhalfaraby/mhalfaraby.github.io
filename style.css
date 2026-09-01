@@ -74,7 +74,7 @@ a:hover {
 }
 
 section {
-  padding: 6rem 0;
+  padding: 4rem 0;
   opacity: 0;
   transform: translateY(20px);
   transition: opacity 0.8s ease-out, transform 0.8s ease-out;
@@ -87,13 +87,13 @@ section.visible {
 
 /* Hero Section */
 .hero {
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding-top: 4rem;
+  padding-top: 6rem;
+  padding-bottom: 2rem;
 }
 
 .avatar-container {
